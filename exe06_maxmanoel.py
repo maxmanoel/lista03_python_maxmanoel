@@ -6,10 +6,10 @@ n1 = int(input("Digite sua idade: "))
 
 if(n1>=18 ):
     print("voce pode dirigir")
-
-if(n1>=16):
-     print("voce pode votar")
-print("MAX MANOEL")
+else:
+    if(n1>=16):
+         print("voce pode votar")
+    print("MAX MANOEL")     
 if(n1<=14):
         print("voce pode comprar um bilhete de loteria")
         print("MAX MANOEL")
