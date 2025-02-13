@@ -13,3 +13,5 @@ else:
 if(n1<=14):
         print("voce pode comprar um bilhete de loteria")
         print("MAX MANOEL")
+else:
+     print("Voce pode fazer doces ou travessuras")
