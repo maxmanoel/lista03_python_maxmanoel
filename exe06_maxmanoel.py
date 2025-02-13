@@ -15,3 +15,4 @@ if(n1<=14):
         print("MAX MANOEL")
 else:
      print("Voce pode fazer doces ou travessuras")
+     print("MAX MANOEL")

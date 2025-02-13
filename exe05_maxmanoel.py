@@ -11,6 +11,7 @@ if "sim" in vento:
     print ("MAX MANOEL")
 elif "nao" in vento:
     print ("Pegue um guarda-chuva")
-    print ("Gustavo Sousa")
+    print ("MAX MANOEL")
 else:
     print ("Aproveite seu dia")
+    print("MAX MANOEL")
